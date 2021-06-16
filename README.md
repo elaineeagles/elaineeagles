@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lilielaineeagles
-- 👀 I’m interested in helping others to learn
+- 👀 I’m interested in helping others to learn Software Engineering
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on most Software Engineering topics
 - 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/computingtutor/
